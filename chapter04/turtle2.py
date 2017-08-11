@@ -8,4 +8,7 @@ t.left(90)
 t.down()
 t.forward(100)
 
-answer=input("end?")
+t.circle(10)
+t.circle(20)
+t.circle(50)
+answer=input("**** Done? **** ")
